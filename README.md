@@ -1,2 +1,2 @@
 # SiberteamTask
-Texas Holdem task
+Texas Holdem 
